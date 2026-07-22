@@ -2,9 +2,9 @@
 
 **Student:** Fatimah ALzeer
 
-**Program:** SDAIA Academy — Modern Data Engineering for AI Systems (DAICO)
+**Program:** SDAIA Academy — Data Engineering for AI Systems (DAICO)
 
-**session dates:** 19 July 2026 – 23 July 2026
+**Session dates:** 19 July 2026 – 23 July 2026
 
 **Trainer:** Mohammed Albeladi
 
@@ -298,7 +298,7 @@ emits a `FAIL` lineage event, and exits with status `1` — Gold and RAG never r
 
 ## Training Attribution
 
-Completed as part of ** Data Engineering for AI Systems** —  **SDAIA Academy (DAICO)**
+Completed as part of ** Data Engineering for AI Systems** — **SDAIA Academy (DAICO)**
 
 **Cohort / session dates:** 19 July 2026 – 23 July 2026
 **Trainer:** Mohammed Albeladi
