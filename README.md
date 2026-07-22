@@ -1,8 +1,11 @@
 # Data Engineering for AI Systems — Capstone
 
 **Student:** Fatimah ALzeer
+
 **Program:** SDAIA Academy — Modern Data Engineering for AI Systems (DAICO)
-**Cohort / session dates:** 19 July 2026 – 23 July 2026
+
+**session dates:** 19 July 2026 – 23 July 2026
+
 **Trainer:** Mohammed Albeladi
 
 ---
