@@ -1,4 +1,4 @@
-# Modern Data Engineering for AI Systems - Capstone
+# Data Engineering for AI Systems - Capstone
 
 **Student:** Fatimah ALzeer  
 **Program:** SDAIA Academy - DAICO  
