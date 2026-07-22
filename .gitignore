@@ -1,0 +1,58 @@
+__pycache__/
+*.pyc
+
+.env
+kaggle.json
+
+.ipynb_checkpoints/
+
+data/
+*.csv
+*.parquet
+
+quarantine_zone/
+lineage_events/
+spark-warehouse/
+
+.airflow/
+
+logs/
+*.log
+
+.DS_Store# ── Secrets — never commit ───────────────────────────────────────────
+.env
+*.env
+kaggle.json
+.kaggle/
+*.pem
+*.key
+airflow.db
+webserver_config.py
+
+# ── Generated pipeline artefacts ─────────────────────────────────────
+data/
+quarantine_zone/
+lineage_events/
+production_warehouse/
+logs/
+*.log
+!docs/sample_run.log
+
+# ── Local model / vector store caches ────────────────────────────────
+.chroma/
+chroma/
+.cache/
+sentence_transformers/
+
+# ── Kafka distribution downloaded for the local broker ───────────────
+kafka_2.13-*/
+kafka_2.13-*.tgz
+
+# ── Python ───────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+*.egg-info/
