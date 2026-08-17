@@ -1,4 +1,4 @@
-# Data Engineering for AI Systems — Capstone
+# Data Engineering for AI Systems 
 
 **Student:** Fatimah ALzeer
 
